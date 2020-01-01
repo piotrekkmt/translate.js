@@ -15,6 +15,11 @@
     },
     "maintainers": [
         {
+            "name": "Peter Poliwoda",
+            "email": "contact@peterpoliwoda.me",
+            "url": "https://github.com/peterpoliwoda"
+        },
+        {
             "name": "Manuel Fernandes",
             "email": "mfernandes777@gmail.com",
             "url": "https://github.com/tinoni"

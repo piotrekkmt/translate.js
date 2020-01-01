@@ -3,6 +3,8 @@ translate.js
 
 A jQuery plugin to translate text in the client side.
 
+This version has been tweaked from the original version to also support placeholder attributes for input forms.
+
 ## Usage
 Step 1: include JQuery and translate.js in your page
 
